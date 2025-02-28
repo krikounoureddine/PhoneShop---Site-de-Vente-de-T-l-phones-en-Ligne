@@ -51,4 +51,4 @@ Pour remplir le formulaire, [📩 cliquez ici](https://docs.google.com/forms/d/e
 
 ### 📲 QR code du formulaire :
 
- ![image alt](https://github.com/krikounoureddine/Projet-du-module-Langages-et-Developpement-Web/blob/main/qrcode.png)
+ ![image alt](docs/qrcode.png)
